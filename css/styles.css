@@ -129,6 +129,7 @@ body {
 	}
 		#tweet-controls {
 			text-align: right;
+			display: none; /* I hid this */
 		}
 			#tweet-controls div {
 				display: inline-block;
